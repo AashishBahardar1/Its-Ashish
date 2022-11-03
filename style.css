@@ -34,3 +34,35 @@ div.logo p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 /* -----header end----- */
+
+
+/* -----main part start----- */
+div.box1{
+    position: relative;
+    box-sizing: border-box;
+    /* border: 2px solid red; */
+    width: 92%;
+    /* align-self: center; */
+    height: 400px;
+    top: 550px;
+    left: 50px;
+    background: linear-gradient(rgb(229, 255, 0),rgb(78, 243, 12));
+    align-items: center;
+}
+div.box1 img{
+    width: 70%;
+    height: auto;
+    position: relative;
+    top: 35px;
+    left: 59px;
+
+}
+div.box1 p{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    /* align-self: center; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 118px;
+    margin-top: 30px;
+}
